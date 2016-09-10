@@ -1,0 +1,3 @@
+import './firebase'
+
+import './sample'

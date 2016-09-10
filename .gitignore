@@ -1,0 +1,5 @@
+npm-debug.log
+dist/
+node_modules/**/*
+src/config/firebase/*
+!src/config/firebase/.gitkeep
